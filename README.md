@@ -2,7 +2,9 @@
 Tool for Elasticsearch - Create snapshot repository, create, verify, restore snapshots
 
 1)	Configure Elasticsearch for index snapshots
+
 a)	Navigate to the Elasticsearch directory
+
 Windows: C:\Elastic\elasticsearch-2.4.0\
 Linux: /var/lib/elasticsearch/
 b)	Create a subfolder for the Elasticsearch snapshot repository, for example: es_backup_folder
