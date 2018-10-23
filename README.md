@@ -7,13 +7,18 @@ a)	Navigate to the Elasticsearch directory
 
 Windows: C:\Elastic\elasticsearch-2.4.0\
 Linux: /var/lib/elasticsearch/
+
 b)	Create a subfolder for the Elasticsearch snapshot repository, for example: es_backup_folder
 c)	Make note of the entire path for the snapshot folder path, for example…
+
 Windows: C:\Elastic\elasticsearch-2.4.0\es_backup_folder
 Linux: /var/lib/elasticsearch/es_backup_folder
+
 d)	Navigate to the path where the “elasticsearch.yml” file is located. For example…
+
 Windows: <drive>\Elastic\elasticsearch-2.4.0\config\elasticsearch.yml
 Linux: /etc/elasticsearch/elasticsearch.yml
+ 
 e)	Open the “elasticsearch.yml” for editing
 f)	Using the path from Steps 4c, add the following line in the “elasticsearch.yml” file…
 If using Windows: path.repo: C:\Elastic\elasticsearch-2.4.0\es_backup_folder
