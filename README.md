@@ -1,5 +1,6 @@
 # Elasticsearch_Snapshot_Tool
 Tool for Elasticsearch - Create snapshot repository, create, verify, restore snapshots
+Windows .Net Framework 4.5.2 is required. Download from: https://www.microsoft.com/net/download/dotnet-framework-runtime/net452
 
 1)	Configure Elasticsearch for index snapshots
 
