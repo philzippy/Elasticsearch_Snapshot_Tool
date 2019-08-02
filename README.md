@@ -1,14 +1,3 @@
-
-
-    Services
-    Documents
-        Untitled Document.md
-
-    Preview as
-    Export as
-    Save to
-    Import from
-
 Document Name
 Markdown
 Preview
